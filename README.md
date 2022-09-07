@@ -1,2 +1,2 @@
-# generic-promise
-Unity/C# Generic Promise System.
+# C# Promise(Async/Await)
+Unity/C# Generic Promise Framework Which Is Also Awaitable.
